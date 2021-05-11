@@ -1,0 +1,23 @@
+{
+	"powers": [ 
+        "origins:aqua_affinity",
+        "origins:aquatic",
+        "origins:like_water",
+        "origins:swim_speed",
+        "guardian:waterbreath",
+        "guardian:slowboi",
+        "guardian:kbresist",
+        "guardian:morehealth",
+        "guardian:fatigueH",
+        "guardian:wek",
+        "guardian:raycastlightning",
+        "guardian:fatigue",
+        "guardian:bigbois",
+        "guardian:thorn"
+    ],	
+    "icon": "minecraft:prismarine_shard",
+	"order": 2,
+	"impact": 2,
+	"name": "Elder Guardian",
+	"description": "You are the Guardian of Sea Temples, you are an amphibian, but it's better if you stay in water."
+}

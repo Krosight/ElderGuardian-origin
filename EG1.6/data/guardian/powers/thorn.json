@@ -1,0 +1,14 @@
+{
+  "type": "origins:attacker_action_when_hit",
+  "entity_action": {
+    "type": "origins:damage",
+    "amount": 4,
+    "source": {
+      "name": "thorns",
+      "bypasses_armor": false
+    }
+  },
+  "cooldown": 20,
+  "name": "Spikes",
+  "description": "Your spikes apply thorns to your body, so you are always hard to attack."
+}
